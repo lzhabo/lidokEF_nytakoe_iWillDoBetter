@@ -1,0 +1,11 @@
+C:\GL\ShopBook\ShopBook\bin\Debug\netcoreapp2.1\ShopBook.deps.json
+C:\GL\ShopBook\ShopBook\bin\Debug\netcoreapp2.1\ShopBook.runtimeconfig.json
+C:\GL\ShopBook\ShopBook\bin\Debug\netcoreapp2.1\ShopBook.runtimeconfig.dev.json
+C:\GL\ShopBook\ShopBook\bin\Debug\netcoreapp2.1\ShopBook.dll
+C:\GL\ShopBook\ShopBook\obj\Debug\netcoreapp2.1\ShopBook.csprojAssemblyReference.cache
+C:\GL\ShopBook\ShopBook\obj\Debug\netcoreapp2.1\ShopBook.csproj.CoreCompileInputs.cache
+C:\GL\ShopBook\ShopBook\obj\Debug\netcoreapp2.1\ShopBook.AssemblyInfoInputs.cache
+C:\GL\ShopBook\ShopBook\obj\Debug\netcoreapp2.1\ShopBook.AssemblyInfo.cs
+C:\GL\ShopBook\ShopBook\bin\Debug\netcoreapp2.1\ShopBook.pdb
+C:\GL\ShopBook\ShopBook\obj\Debug\netcoreapp2.1\ShopBook.dll
+C:\GL\ShopBook\ShopBook\obj\Debug\netcoreapp2.1\ShopBook.pdb
